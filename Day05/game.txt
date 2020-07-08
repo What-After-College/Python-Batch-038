@@ -1,0 +1,8 @@
+1. List of words
+2. Random word function
+3. Alphabets and dashes
+4. Number of attempts
+5. regulary update user with word status and number of attempts remaining 
+6. An if-else block to check whether the alphabet entered is correct or not
+7. Win or loss 
+
